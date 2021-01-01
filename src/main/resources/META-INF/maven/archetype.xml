@@ -1,0 +1,9 @@
+<archetype>
+    <id>a-bit-of-archetype</id>
+    <sources>
+        <source>src/main/java/edu/bit/$App.java</source>
+    </sources>
+    <testSources>
+        <source>src/test/java/edu/bit/$AppTest.java</source>
+    </testSources>
+</archetype>
