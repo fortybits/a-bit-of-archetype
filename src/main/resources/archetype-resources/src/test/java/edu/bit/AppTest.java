@@ -6,13 +6,13 @@ import org.junit.jupiter.api.Test;
 /**
  * Unit test for simple App.
  */
-public class AppTest {
+class AppTest {
 
     /**
      * Simple junit test.
      */
     @Test()
-    public void testApp() {
+    void testApp() {
         Assertions.assertTrue(true);
     }
 }

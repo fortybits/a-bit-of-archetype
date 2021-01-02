@@ -1,0 +1,13 @@
+<archetype-descriptor name="a-bit-of-archetype">
+    <fileSets>
+        <fileSet>
+            <directory>src/main/java</directory>
+        </fileSet>
+        <fileSet>
+            <directory>src/main/java/edu/bit</directory>
+        </fileSet>
+        <fileSet>
+            <directory>src/test/java/edu/bit</directory>
+        </fileSet>
+    </fileSets>
+</archetype-descriptor>
