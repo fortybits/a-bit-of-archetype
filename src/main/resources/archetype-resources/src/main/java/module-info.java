@@ -1,4 +1,4 @@
-module a.bit.of.java {
-    requires java.base;
-    requires lombok;
+module $a-bit-of-something {
+        requires java.base;
+        requires lombok;
 }

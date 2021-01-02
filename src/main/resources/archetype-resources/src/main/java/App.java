@@ -1,4 +1,4 @@
-package $edu.bit;
+package edu.bit;
 
 /**
  * This is the place to start off the track of a bit of anything.

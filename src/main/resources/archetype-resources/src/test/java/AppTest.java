@@ -1,5 +1,6 @@
-package $edu.bit;
+package edu.bit;
 
+import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
 /**
@@ -12,6 +13,6 @@ public class AppTest {
      */
     @Test()
     public void testApp() {
-        assertTrue(true);
+        Assertions.assertTrue(true);
     }
 }
