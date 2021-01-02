@@ -1,3 +1,3 @@
 module javamodule {
-    requires lombok;
+    exports edu.bit;
 }
