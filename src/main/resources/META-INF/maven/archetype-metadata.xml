@@ -9,5 +9,12 @@
         <fileSet>
             <directory>src/test/java/edu/bit</directory>
         </fileSet>
+        <fileSet>
+            <directory></directory>
+            <includes>
+                <include>__gitignore__</include>
+            </includes>
+            <!--  based on https://stackoverflow.com/a/49052349/1746118 -->
+        </fileSet>
     </fileSets>
 </archetype-descriptor>
