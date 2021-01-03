@@ -7,6 +7,11 @@
     <name>a-bit-of-archetype</name>
     <description>A maven archetype used commonly across all FortyBits projects.</description>
 
+    <properties>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
+    </properties>
+
     <build>
         <plugins>
             <plugin>

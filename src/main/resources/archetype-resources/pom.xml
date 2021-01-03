@@ -5,6 +5,11 @@
     <artifactId>${artifactId}</artifactId>
     <version>${version}</version>
 
+    <properties>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
+    </properties>
+
     <dependencies>
         <dependency>
             <groupId>org.junit.jupiter</groupId>
@@ -29,7 +34,6 @@
                         <arg>-Xlint:all</arg>
                     </compilerArgs>
                     <!--for unmappable characters in classes-->
-                    <encoding>UTF-8</encoding>
                     <showDeprecation>true</showDeprecation>
                     <showWarnings>true</showWarnings>
                 </configuration>
