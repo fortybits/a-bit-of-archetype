@@ -33,7 +33,6 @@
                         <arg>--enable-preview</arg>
                         <arg>-Xlint:all</arg>
                     </compilerArgs>
-                    <!--for unmappable characters in classes-->
                     <showDeprecation>true</showDeprecation>
                     <showWarnings>true</showWarnings>
                 </configuration>
