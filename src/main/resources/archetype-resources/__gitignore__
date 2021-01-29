@@ -26,7 +26,6 @@ hs_err_pid*
 # User-specific IDEA Generated files
 .idea/*
 **.iml
-dependency-reduced-pom.xml
 
 ### Maven template
 target/
